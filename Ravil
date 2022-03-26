@@ -1,0 +1,2 @@
+- {"name":"🇺🇸 US_791","server":"23.94.36.158","port":57198,"type":"vmess","country":"🇺🇸 US","uuid":"b5024b21-52a1-4b75-9e9e-75c528caca09","alterId":3,"cipher":"auto","network":"tcp","http-opts":{},"ws-path":"/","skip-cert-verify":true}
+- {"name":"🇺🇸 US_792","server":"free-russian01-cdn.xiaohouzi.club","port":80,"type":"vmess","country":"🇺🇸 US","uuid":"3d31728e-064d-42b8-b945-f79c008f73fc","alterId":233,"cipher":"auto","network":"ws","http-opts":{},"ws-path":"/","skip-cert-verify":true}
